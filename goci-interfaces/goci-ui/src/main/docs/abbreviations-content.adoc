@@ -318,6 +318,9 @@ CPD: cigarettes per day
 CPDBI: 10 or more cigarettes per day
 
 
+CPZe: chlorpromazine equivalent
+
+
 CRP: C-reactive protein
 
 
@@ -356,6 +359,9 @@ DBP: diastolic blood pressure
 
 
 DBPLTA: diastolic blood pressure, long-term average
+
+
+DDD: defined daily dose
 
 
 D.f.: Dermatophagoides farina
@@ -970,6 +976,9 @@ pltadp: platelet aggregation (ADP-induced)
 
 
 pltcoll: platelet aggregation (collagen-induced)
+
+
+PM %: percentage of maximum dose
 
 
 PP: pulse pressure
