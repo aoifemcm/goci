@@ -942,6 +942,9 @@ PC aa C36:4: Phosphatidylcholine diacyl C34:4
 PCS: Physical Component Summary
 
 
+PCT: Periodontal complex traits
+
+
 PCV: packed cell volume
 
 
